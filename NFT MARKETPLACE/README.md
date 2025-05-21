@@ -337,6 +337,4 @@ NFT MARKETPLACE/
 
 ---
 
-## Contact
 
-For any issues, please open an issue on the repository or contact the maintainers.
